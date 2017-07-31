@@ -18,5 +18,5 @@ window.onclick = function(event) {
     }
   }
 }
-Try it Yourself »
+
 
